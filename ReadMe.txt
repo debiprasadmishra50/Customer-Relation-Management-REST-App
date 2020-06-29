@@ -1,1 +1,1 @@
-Deploye Both Applications on Server
+Deploy Both Applications on Server
